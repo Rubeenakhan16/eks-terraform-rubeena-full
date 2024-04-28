@@ -1,6 +1,6 @@
 # eks-terraform-rubeena-full
 
-
+yutube link --- https://www.youtube.com/watch?v=Mf90wofMIjA
 
 step 1 
 once you clone this repo you need to configure with aws configure <access key and secret key>
